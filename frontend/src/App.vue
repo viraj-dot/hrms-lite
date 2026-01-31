@@ -68,7 +68,8 @@
 </template>
 
 <script>
-const API = "http://127.0.0.1:8000";
+const API = "https://hrms-lite-0vdd.onrender.com";
+
 
 export default {
   data() {
