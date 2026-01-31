@@ -1,5 +1,7 @@
 from fastapi import FastAPI
 from database import get_database
+from models.employee import EmployeeCreate
+
 
 app = FastAPI(title="HRMS Lite Backend")
 
